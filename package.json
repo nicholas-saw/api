@@ -1,0 +1,16 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "My blog app",
+  "main": "app.js",
+  "scripts": {
+    "test": "^C"
+  },
+  "author": "Natalie",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {}
+}
